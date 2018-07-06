@@ -1,4 +1,6 @@
-CREATE TABLE `general_criteria_calc` (
+/*** This is version 2 checking **/
+
+CREATE TABLE `general_criteria_calc1a` (
   `song_id` varchar(6) NOT NULL,
   `eval_num` int(3) NOT NULL,
   `gen_criteria_name` varchar(25) NOT NULL,
